@@ -21,6 +21,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "ignacioocode.appunti",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
@@ -28,6 +29,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "28a56a0a-cb6b-404e-affa-d6eede953db3"
+      }
     }
   }
 }
